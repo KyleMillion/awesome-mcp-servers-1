@@ -1,8 +1,3 @@
-# Awesome MCP Servers
-
-> [!NOTE]
-> We do not accept PRs. Please submit your MCP on the website: https://mcpservers.org/submit
-
 ## Sponsors
 
 <div align="center">
@@ -580,6 +575,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[XcodeBuildMCP](https://github.com/cameroncooke/xcodebuildmcp)** -  Popular MCP server that enables AI agents to scaffold, build, run and test iOS, macOS, visionOS and watchOS apps or simulators and wired and wireless devices. It has powerful UI-automation capabilities like controlling the simulator, capturing run-time logs, as well as taking screenshots and viewing the accessibility hierarchy.
 - **[xcsimctl](https://github.com/nzrsky/simctl-mcp-server)** - 🍎 Manage Xcode simulators.
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
+- **[YIELD INTELLIGENCE](https://github.com/thebrierfox/yield-intelligence-skill)** - Live US Treasury yield intelligence — real-time yield curves, bond calculator, and AI-powered passive income optimization. Standalone PWA with MCP endpoint. No auth required.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
 
